@@ -3,7 +3,7 @@ package pro15;
 public class Main1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method 
         int num=20;
         System.out.println("Factors of: "+num+" are");
         for(int i=1;i<=num;i++)
